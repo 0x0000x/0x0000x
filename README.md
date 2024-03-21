@@ -8,7 +8,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgadcyber" alt="amgadcyber" /></a> </p> -->
 
 <!-- Most used  languages: -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amgadcyber&show_icons=true&locale=en" alt="amgadcyber" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgadcyber&show_icons=true&locale=en&layout=compact" alt="amgadcyber" /></p>
+
 
 <!-- X account -->
 <p align="left"> <a href="https://twitter.com/amgadcyber" target="blank"><img src="https://img.shields.io/twitter/follow/amgadcyber?logo=twitter&style=for-the-badge" alt="amgadcyber" /></a> </p>
@@ -38,8 +39,8 @@
 <p><a href="https://www.buymeacoffee.com/amgadcyber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amgadcyber" /></a><a href="https://ko-fi.com/amgadcyber"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amgadcyber" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgadcyber&show_icons=true&locale=en&layout=compact" alt="amgadcyber" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amgadcyber&show_icons=true&locale=en" alt="amgadcyber" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgadcyber&" alt="amgadcyber" /></p>
