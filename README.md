@@ -8,7 +8,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgadcyber" alt="amgadcyber" /></a> </p> -->
 
 <!-- Most used  languages: -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgadcyber&show_icons=true&locale=en&layout=compact" alt="amgadcyber" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgadcyber&show_icons=true&locale=en&layout=compact" alt="amgadcyber" /><br></p>
 
 
 <!-- X account -->
