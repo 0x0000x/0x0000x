@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amgad Fahd</h1>
-<h3 align="center">Passionate Hacker and Front-end developer from Yemen</h3>
+<h3 align="center">Passionate Hacker and Developer from the 🌎</h3>
 
 <!-- Profile views -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amgadcyber&label=Profile%20views&color=0e75b6&style=flat" alt="amgadcyber" /> </p> -->
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amgadcyber" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amgadcyber" height="30" width="40" /></a> -->
 <a href="https://twitter.com/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amgadcyber" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amgadcyber" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amgadcyber" height="30" width="40" /></a>
