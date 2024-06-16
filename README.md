@@ -12,7 +12,7 @@
 
 
 <!-- X account -->
-<p align="left"> <a href="https://twitter.com/0x0000x" target="blank"><img src="https://img.shields.io/twitter/follow/0x0000x?logo=twitter&style=for-the-badge" alt="0x0000x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0x0000x_" target="blank"><img src="https://img.shields.io/twitter/follow/0x0000x_?logo=twitter&style=for-the-badge" alt="0x0000x_" /></a> </p>
 
 - 💬 Ask me about **Anything technical**
 
