@@ -2,17 +2,17 @@
 <h3 align="center">Passionate Hacker and Developer from the 🌎</h3>
 
 <!-- Profile views -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amgadcyber&label=Profile%20views&color=0e75b6&style=flat" alt="amgadcyber" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x0000x&label=Profile%20views&color=0e75b6&style=flat" alt="0x0000x" /> </p> -->
 
 <!-- Trophies -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgadcyber" alt="amgadcyber" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x0000x" alt="0x0000x" /></a> </p> -->
 
 <!-- Most used  languages: -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgadcyber&show_icons=true&locale=en&layout=compact" alt="amgadcyber" /><br></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x0000x&show_icons=true&locale=en&layout=compact" alt="0x0000x" /><br></p>
 
 
 <!-- X account -->
-<p align="left"> <a href="https://twitter.com/amgadcyber" target="blank"><img src="https://img.shields.io/twitter/follow/amgadcyber?logo=twitter&style=for-the-badge" alt="amgadcyber" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0x0000x" target="blank"><img src="https://img.shields.io/twitter/follow/0x0000x?logo=twitter&style=for-the-badge" alt="0x0000x" /></a> </p>
 
 - 💬 Ask me about **Anything technical**
 
@@ -20,15 +20,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://dev.to/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amgadcyber" height="30" width="40" /></a> -->
-<a href="https://twitter.com/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amgadcyber" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amgadcyber" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amgadcyber" height="30" width="40" /></a>
-<a href="https://kaggle.com/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amgadcyber" height="30" width="40" /></a>
-<a href="https://fb.com/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amgadcyber" height="30" width="40" /></a>
-<a href="https://instagram.com/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amgadcyber" height="30" width="40" /></a>
-<a href="https://medium.com/@amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amgadcyber" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/amgadcyber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="amgadcyber" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0x0000x" height="30" width="40" /></a> -->
+<a href="https://twitter.com/0x0000x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x0000x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0x0000x" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="0x0000x" height="30" width="40" /></a>
+<a href="https://kaggle.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="0x0000x" height="30" width="40" /></a>
+<a href="https://fb.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0x0000x" height="30" width="40" /></a>
+<a href="https://instagram.com/0x0000x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x0000x" height="30" width="40" /></a>
+<a href="https://medium.com/@0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0x0000x" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="0x0000x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,12 +36,12 @@
 
 
 <!-- <h3 align="left">Support:</h3> -->
-<!-- <p><a href="https://www.buymeacoffee.com/amgadcyber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amgadcyber" /></a><a href="https://ko-fi.com/amgadcyber"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amgadcyber" /></a></p><br><br> -->
+<!-- <p><a href="https://www.buymeacoffee.com/0x0000x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0x0000x" /></a><a href="https://ko-fi.com/0x0000x"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0x0000x" /></a></p><br><br> -->
 
 
 <!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amgadcyber&show_icons=true&locale=en" alt="amgadcyber" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x0000x&show_icons=true&locale=en" alt="0x0000x" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgadcyber&" alt="amgadcyber" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x0000x&" alt="0x0000x" /></p>
  -->
