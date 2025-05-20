@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="0x0000x" height="30" width="40" /></a>
 <a href="https://kaggle.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="0x0000x" height="30" width="40" /></a>
 <a href="https://fb.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0x0000x" height="30" width="40" /></a>
-<a href="https://instagram.com/0x0000x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x0000x" height="30" width="40" /></a>
+<a href="https://instagram.com/0x41d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x0000x" height="30" width="40" /></a>
 <a href="https://medium.com/@0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0x0000x" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="0x0000x" height="30" width="40" /></a>
 </p>
