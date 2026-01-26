@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Anything technical**
 
-- ⚡ Fun fact **I think I am somehow funny**
+- ⚡ Fun fact **Hidden Content**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
