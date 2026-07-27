@@ -1,47 +1,137 @@
-<h1 align="center">Hi 👋, I'm Amgad Fahd</h1>
-<h3 align="center">Passionate Hacker and Developer from the 🌎</h3>
+<div align="center">
 
-<!-- Profile views -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x0000x&label=Profile%20views&color=0e75b6&style=flat" alt="0x0000x" /> </p> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F19,55:155E75,100:F97316&text=Amgad%20Fahd&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=58&desc=Builder%20%7C%20Security%20Researcher%20%7C%20Mobile%20Engineer&descAlign=50&descAlignY=58&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:E0F2FE,55:14B8A6,100:F97316&text=Amgad%20Fahd&fontAlign=50&fontAlignY=38&fontColor=0F172A&fontSize=58&desc=Builder%20%7C%20Security%20Researcher%20%7C%20Mobile%20Engineer&descAlign=50&descAlignY=58&animation=fadeIn" />
+  <img width="100%" alt="Amgad Fahd - Builder, Security Researcher, Mobile Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F19,55:155E75,100:F97316&text=Amgad%20Fahd&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=58&desc=Builder%20%7C%20Security%20Researcher%20%7C%20Mobile%20Engineer&descAlign=50&descAlignY=58&animation=fadeIn" />
+</picture>
 
-<!-- Trophies -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x0000x" alt="0x0000x" /></a> </p> -->
+[![GitHub followers](https://img.shields.io/github/followers/0x0000x?style=for-the-badge&logo=github&label=Follow)](https://github.com/0x0000x)
+[![Profile views](https://komarev.com/ghpvc/?username=0x0000x&style=for-the-badge&color=155e75)](https://github.com/0x0000x)
+[![X](https://img.shields.io/badge/X-0x0000x__-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/0x0000x_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0x0000x-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0x0000x)
 
-<!-- Most used  languages: -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x0000x&show_icons=true&locale=en&layout=compact" alt="0x0000x" /><br></p>
+</div>
 
+## What I Build
 
-<!-- X account -->
-<p align="left"> <a href="https://twitter.com/0x0000x_" target="blank"><img src="https://img.shields.io/twitter/follow/0x0000x_?logo=twitter&style=for-the-badge" alt="0x0000x_" /></a> </p>
+I build production mobile apps, backend systems, automation tools, and security research utilities. My current focus is **Malmoom**, a marketplace platform that connects users, merchants, and local suppliers through mobile apps and real-time order workflows.
 
-- 💬 Ask me about **Anything technical**
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Malmoom</h3>
+      <p>
+        <a href="https://malmoom.com">
+          <img src="assets/malmoom-app-icon.png" width="82" height="82" alt="Malmoom app icon" />
+        </a>
+      </p>
+      <p>Consumer shopping app for browsing products, ordering from local merchants, tracking orders, and receiving real-time updates.</p>
+      <p>
+        <a href="https://malmoom.com"><img alt="Website" src="https://img.shields.io/badge/Website-malmoom.com-155E75?style=for-the-badge&logo=safari&logoColor=white" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.ya.apps.malmoom"><img alt="Get it on Google Play" height="38" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
+        <a href="https://apps.apple.com/us/app/malmoom/id6743178947"><img alt="Download on the App Store" height="38" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Malmoom Merchant</h3>
+      <p>
+        <a href="https://malmoom.com">
+          <img src="assets/malmoom-merchant-icon.png" width="82" height="82" alt="Malmoom Merchant app icon" />
+        </a>
+      </p>
+      <p>Merchant operations app for managing orders, invoices, advertising requests, product workflows, and storefront activity.</p>
+      <p>
+        <a href="https://malmoom.com"><img alt="Website" src="https://img.shields.io/badge/Website-malmoom.com-155E75?style=for-the-badge&logo=safari&logoColor=white" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.ya.apps.malmoom.merchant"><img alt="Get it on Google Play" height="38" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
+        <a href="https://apps.apple.com/us/app/malmoom-merchant/id6743328739"><img alt="Download on the App Store" height="38" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- ⚡ Fun fact **Hidden Content**
+## Latest Public Work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://dev.to/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0x0000x" height="30" width="40" /></a> -->
-<a href="https://twitter.com/0x0000x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x0000x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0x0000x" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="0x0000x" height="30" width="40" /></a>
-<a href="https://kaggle.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="0x0000x" height="30" width="40" /></a>
-<a href="https://fb.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0x0000x" height="30" width="40" /></a>
-<a href="https://instagram.com/0x41d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0x0000x" height="30" width="40" /></a>
-<a href="https://medium.com/@0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0x0000x" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/0x0000x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="0x0000x" height="30" width="40" /></a>
+| Project | Focus | Stack | Updated |
+| --- | --- | --- | --- |
+| [VPhoneGaGa](https://github.com/0x0000x/VPhoneGaGa) | Android virtualization research and tooling | Python | 2026-07-27 |
+| [otp-job](https://github.com/0x0000x/otp-job) | Typed sync and async Python client for the OTP Job API | Python | 2026-06-15 |
+| [free-otp-api](https://github.com/0x0000x/free-otp-api) | Web service for free phone numbers from multiple providers | API | 2026-05-05 |
+| [darksword-kexploit](https://github.com/0x0000x/darksword-kexploit) | iOS kernel exploit research reimplemented in Objective-C | Objective-C | 2026-05-05 |
+| [blutter](https://github.com/0x0000x/blutter) | Flutter mobile application reverse engineering tooling | RE | 2026-05-05 |
+| [yaLngChanger](https://github.com/0x0000x/yaLngChanger) | Android display-language automation through ADB | Shell | 2026-04-22 |
+
+## Engineering Surface
+
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" />
+  <img alt="Frida" src="https://img.shields.io/badge/Frida-111111?style=for-the-badge&logo=frida&logoColor=white" />
+  <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-3B82F6?style=for-the-badge" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## Live GitHub Signals
 
+<div align="center">
 
-<!-- <h3 align="left">Support:</h3> -->
-<!-- <p><a href="https://www.buymeacoffee.com/0x0000x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0x0000x" /></a><a href="https://ko-fi.com/0x0000x"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0x0000x" /></a></p><br><br> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x0000x&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x0000x&theme=github" />
+  <img width="100%" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x0000x&theme=github_dark" />
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x0000x&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x0000x&theme=github" />
+  <img height="165" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x0000x&theme=github_dark" />
+</picture>
 
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x0000x&show_icons=true&locale=en" alt="0x0000x" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x0000x&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x0000x&theme=github" />
+  <img height="165" alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x0000x&theme=github_dark" />
+</picture>
 
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x0000x&" alt="0x0000x" /></p>
- -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=0x0000x&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Velocity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=0x0000x&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Velocity" />
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=0x0000x&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Velocity" />
+</picture>
+
+</div>
+
+## Featured Repositories
+
+<div align="center">
+
+[![otp-job](https://img.shields.io/badge/otp--job-Typed%20Python%20API%20client-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/0x0000x/otp-job)
+[![yaLngChanger](https://img.shields.io/badge/yaLngChanger-Android%20ADB%20language%20tool-FCC624?style=for-the-badge&logo=android&logoColor=111111)](https://github.com/0x0000x/yaLngChanger)
+[![blutter](https://img.shields.io/badge/blutter-Flutter%20reverse%20engineering-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/0x0000x/blutter)
+
+</div>
+
+<details>
+  <summary><b>Operating Principles</b></summary>
+
+- Build useful products first, then make the internals strong.
+- Treat mobile, backend, and security as one system.
+- Prefer automation that removes repeated manual work.
+- Keep research practical enough to ship tools, docs, or reproducible examples.
+
+</details>
+
+<div align="center">
+
+![Contribution snake](https://raw.githubusercontent.com/0x0000x/0x0000x/output/github-contribution-grid-snake-dark.svg)
+
+</div>
