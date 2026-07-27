@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/0x0000x?style=for-the-badge&logo=github&label=Follow)](https://github.com/0x0000x)
 [![Profile views](https://komarev.com/ghpvc/?username=0x0000x&style=for-the-badge&color=155e75)](https://github.com/0x0000x)
-[![X](https://img.shields.io/badge/X-0x0000x__-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/x0000x_)
+[![X](https://img.shields.io/badge/X-x0000x__-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/x0000x_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0x0000x-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/x0000x)
 
 </div>
