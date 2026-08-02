@@ -15,7 +15,7 @@
 
 ## What I Build
 
-I build production mobile apps, backend systems, automation tools, and security research utilities. My current focus is **Malmoom**, a marketplace platform that connects users, merchants, and local suppliers through mobile apps and real-time order workflows.
+I build production mobile apps, backend systems, automation tools, and security research utilities. one of my latest apps is **Malmoom**, a marketplace platform that connects users, merchants, and local suppliers through mobile apps and real-time order workflows.
 
 <table>
   <tr>
